@@ -2,7 +2,6 @@
 A react multipage demo with webpack
 
 # code structure
-# ScreenShot
 ![](https://github.com/tashaxing/react_multipage_demo/raw/master/src/asset/struct.PNG)<br/>
 
 # blog address
